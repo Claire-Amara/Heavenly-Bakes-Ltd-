@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(_16322938231_large.png);
+  }
+  
+  header {
+    background-color: #f2f2f2;
+    padding: 10px 0;
+    text-align: right;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 10px;
+    text-align: right;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+    text-align: right;
+  }
+  
+  section {
+    padding: 20px;
+    text-align: center;
+  }
+  h2{
+    
+color: greenyellow;  }
+  .booking-form {
+    max-width: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+background-color:pink;
+  }
+  
+  .input-group {
+    margin-bottom: 20px;
+  }
+  
+  .input-group label {
+    margin-bottom: 5px;
+    display: block;
+  }
+  
+  .input-group input,
+  .input-group textarea {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background:linear-gradient(blue,black,blue,black);
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #555;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+  }
+  

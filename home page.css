@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(Cake-roll.jpg);
+  }
+  
+  header {
+    background-color: white;
+    padding: 10px 0;
+    text-align: right;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color:white;
+  }
+  
+  section {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .hero {
+    background-image: url('hero-image.jpg');
+    background-size: cover;
+    color: #22058b;
+    padding: 25px 0;
+    text-align: center;
+    
+  }
+  .p{
+    color:blueviolet ;
+  }
+  .menu{
+    color:blueviolet ;
+    padding: 25px 0;
+    text-align: left;
+    
+  }
+  .p{
+    color:blue;
+
+  }
+  .li{
+    color:whitesmoke;
+  }
+
+  
+  footer {
+    background-color: #061986;
+    color:white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
